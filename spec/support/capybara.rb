@@ -21,4 +21,4 @@ Capybara.register_driver :headless_chrome do |app|
 end
 
 Capybara.default_wait_time = 4
-Capybara.javascript_driver = :chrome
+Capybara.javascript_driver = :headless_chrome

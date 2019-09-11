@@ -12,7 +12,7 @@ gem 'uglifier', '>= 1.3.0'
 
 gem 'decent_exposure'
 
-gem 'bootstrap-sass'
+gem 'bootstrap-sass', '~> 3.2.0.3'
 gem 'devise'
 gem 'haml-rails'
 gem 'simple_form'
